@@ -1,0 +1,6 @@
+{
+  "name": "LABVERSE",
+  "description": "Explore. Experiment. Understand. An interactive science and educational simulation platform for physics, chemistry, biology, and mathematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
